@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(187, 220, 188);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    color: rgb(94, 41, 41);
+}
+
+.nav{
+    position: relative;
+    float: right;
+    z-index: 1;
+    margin: 10px;
+}
+
+.header{
+    width: 100%;
+    font-size: xx-large;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    margin: 10px 0;
+    padding: 50px;
+    background-color: blanchedalmond !important;
+    background-image: url(https://garden.spoonflower.com/c/8808310/p/f/m/YtAKOFAAFGw3JA8UhoT8sFGDS3gkdQPfKFdnUv4ZOhHJlr0EWBa4AGU3i9E/American%20Football%20%7C%20Watercolor.jpg);
+}
+
+.centered-list{
+    text-align: left;
+    list-style-position: inside;
+}
+
+img{
+    width: 25%;
+    display: inline;
+    padding: 3px;
+    margin: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+a{
+    color: green;
+    font-size: larger;
+}
